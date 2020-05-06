@@ -1,0 +1,2 @@
+C:\Users\USUARI\Desktop\JOVIAT 19-20\M17 - Programació videojocs\C++\ActivitatCpp\Debug\ActivitatCpp.exe
+C:\Users\USUARI\Desktop\JOVIAT 19-20\M17 - Programació videojocs\C++\ActivitatCpp\Debug\ActivitatCpp.pdb
